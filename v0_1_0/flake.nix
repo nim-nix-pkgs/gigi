@@ -11,7 +11,6 @@
   inputs.src-gigi-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-gigi-v0_1_0.owner = "attakei";
   inputs.src-gigi-v0_1_0.repo  = "gigi";
-  inputs.src-gigi-v0_1_0.dir   = "";
   inputs.src-gigi-v0_1_0.type  = "github";
   
   inputs."puppy".owner = "nim-nix-pkgs";
